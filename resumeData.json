@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"MA Hei Pang",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile.jpg",
+    "bio":"My name is Pang, the graduated of HD software engineering, a junior software developer that has interests in Java Backend development. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "maheipang@gmail.com",
+    "phone": "(852) 5544 0221",
+    "github":"https://github.com/heipang1992",
+    "project":"https://github.com/heipang1992",
+    "address":{
+      "line1":"District: Kowloon City"
+    },
+    "youtube":{
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/daiwei920",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CyberlarkCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/home/1521358670931997/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"Hong Kong Institute of Vocational Education (Sha Tin)",
+        "degree":"Higher Diploma in Software Engineering with distinction",
+        "graduated":"2021 - 2023",
+        "description":"Distinction (GPA: 3.98 / 4.0)"
+      },
+      {
+        "school":"Hong Kong Metropolitan University",
+        "degree":"Bachelor of Social Sciences with Honours in Applied Social Studies",
+        "graduated":"2011-2014",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"MapKing International Limited",
+        "title":"Junior Programmer (Intern)",
+        "years":"June - Aug 2022",
+        "description":"Updated daily traffic arrangements via GIS application and MySQL, Web Scarping, Managed the console of E-taxi app"
+      },
+      {
+        "company":"Hong Kong Lutheran Social Services",
+        "title":"Project Officer",
+        "years":"June 2019 - Sep 2021",
+        "description":"Managed the daily operation of health center, Operated health programs for elderly, Assisted in bidding funding"
+      },
+      {
+        "company":"The Boy’s Brigade, Hong Kong",
+        "title":"Project Officer",
+        "years":"Feb 2017 - May 2019",
+        "description":"Managed the daily operation of recycling centre, Promoted 2 municipal solid waste charging schemes, Drove a van"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (JSP, Spring Boot, API, Database)",
+        "level":"80%"
+      },
+      {
+        "name":"Frontend Development (React, JS, HTML, CSS)",
+        "level":"65%"
+      },
+      {
+        "name":"Embeded Software development (C/C++)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "如何在澳洲找IT工作",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://course.cyberlark.com.au/courses/it"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://property.cyberlark.com.au/"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
+      },
+      {
+        "title":"Video",
+        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
+      },
+      {
+        "title":"Video",
+        "description": "如何使用澳洲房产投资计算器",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+      }
+    ]
+  }
+}
