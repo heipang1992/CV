@@ -26,29 +26,14 @@
     "resumedownload":"./images/resume.png",
     "social":[
       {
-        "name":"twitter",
-        "url":"https://twitter.com/daiwei920",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/CyberlarkCode",
+        "url":"https://github.com/heipang1992/",
         "className":"fa fa-github"
       },
       {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
-        "className":"fa fa-youtube-square"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com",
+        "url":"https://www.linkedin.com/in/heipangma/",
         "className":"fa fa-linkedin-square"
-      },
-      {
-        "name":"toutiao",
-        "url":"https://www.ixigua.com/home/1521358670931997/",
-        "className":"fa fa-weibo"
       }
     ]
   },
