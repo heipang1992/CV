@@ -98,10 +98,6 @@
         "level":"65%"
       },
       {
-        "name":"Embeded Software development (C/C++)",
-        "level":"80%"
-      },
-      {
         "name":"Leadership & Management",
         "level":"75%"
       },
@@ -114,46 +110,32 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Course",
-        "description": "如何在澳洲找IT工作",
+        "title":"Building Management System (BMS)",
+        "description": "developed by Java",
         "category": "Course",
         "image":"00.png",
-        "url":"https://course.cyberlark.com.au/courses/it"
+        "url":"https://github.com/heipang1992/bms/"
       },
       {
-        "title":"Project",
-        "description": "Investment Property Calculator",
-        "category": "Project",
-        "image":"04.png",
-        "url":"https://property.cyberlark.com.au/"
-      },
-      {
-        "title":"Video",
-        "description": "How to use Investment Property Calculator",
+        "title":"Prediction on total export in HK",
+        "description": "LSTM for time-series prediction",
         "category": "Video",
         "image":"01.png",
-        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+        "url":"https://github.com/heipang1992/prediction"
       },
       {
-        "title":"Video",
-        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
-        "category":"Video",
-        "image":"02.png",
-        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
-      },
-      {
-        "title":"Video",
-        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "title":"Java Spring Boot",
+        "description":"Spring Boot + MVC | Coming Soon",
         "category": "Video",
         "image":"03.png",
-        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
+        "url":"https://www.youtube.com/watch?v=2WM2AyDA2es"
       },
       {
-        "title":"Video",
-        "description": "如何使用澳洲房产投资计算器",
+        "title":"FYP - Group Project",
+        "description": "[ React-Native + 3D Model ]  || Coming Soon",
         "category": "Video",
         "image":"01-chinese.png",
-        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+        "url":"https://www.youtube.com/watch?v=esYjbyBm8zw"
       }
     ]
   }
