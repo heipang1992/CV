@@ -1,18 +1,16 @@
 {
   "main": {
-    "name":"David Cyberlark",
+    "name":"MA Hei Pang",
     "description":"Passionate about learning technology and sharing knowledge",
     "image":"profile.jpg",
-    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "bio":"My name is Pang, the graduated of HD software engineering, a junior software developer that has interests in Java Backend development. ",
     "contactmessage":"Thank you for your feedback.",
-    "email": "Dave@cyberlark.com.au",
-    "phone": "(04) 1234 5678",
-    "github":"https://github.com/CyberlarkCode",
-    "project":"https://github.com/CyberlarkCode",
+    "email": "maheipang@gmail.com",
+    "phone": "(852) 5544 0221",
+    "github":"https://github.com/heipang1992",
+    "project":"https://github.com/heipang1992",
     "address":{
-      "line1":"Address: 13 Main St",
-      "line2":"City: Brisbane",
-      "line3":"Country: Australia"
+      "line1":"District: Kowloon City"
     },
     "youtube":{
       "english": {
@@ -58,34 +56,46 @@
     "skillmessage":"Technical Skills",
     "education":[
       {
-        "school":"University of Wollongong",
-        "degree":"Master of Computer Science with distinction",
-        "graduated":"2007 - 2009",
-        "description":""
+        "school":"Hong Kong Institute of Vocational Education (Sha Tin)",
+        "degree":"Higher Diploma in Software Engineering with distinction",
+        "graduated":"2021 - 2023",
+        "description":"Distinction (GPA: 3.98 / 4.0)"
       },
       {
-        "school":"AWS certification",
-        "degree":"AWS Certified Solutions Architect - Professional",
-        "graduated":"Dec 2021",
+        "school":"Hong Kong Metropolitan University",
+        "degree":"Bachelor of Social Sciences with Honours in Applied Social Studies",
+        "graduated":"2011-2014",
         "description":""
       }
     ],
     "work":[
       {
-        "company":"Cyberlark Studio",
-        "title":"Founder",
-        "years":"Augest 2005 - Present",
-        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+        "company":"MapKing International Limited",
+        "title":"Junior Programmer (Intern)",
+        "years":"June - Aug 2022",
+        "description":"Updated daily traffic arrangements via GIS application and MySQL, Web Scarping, Managed the console of E-taxi app"
+      },
+      {
+        "company":"Hong Kong Lutheran Social Services",
+        "title":"Project Officer",
+        "years":"June 2019 - Sep 2021",
+        "description":"Managed the daily operation of health center, Operated health programs for elderly, Assisted in bidding funding"
+      },
+      {
+        "company":"The Boy’s Brigade, Hong Kong",
+        "title":"Project Officer",
+        "years":"Feb 2017 - May 2019",
+        "description":"Managed the daily operation of recycling centre, Promoted 2 municipal solid waste charging schemes, Drove a van"
       }
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"95%"
+        "name":"Backend Development (JSP, Spring Boot, API, Database)",
+        "level":"80%"
       },
       {
-        "name":"Frontend Development (React, Angular)",
-        "level":"85%"
+        "name":"Frontend Development (React, JS, HTML, CSS)",
+        "level":"65%"
       },
       {
         "name":"Embeded Software development (C/C++)",
