@@ -49,13 +49,8 @@ class Header extends Component {
             </li>
 
             <li>
-              <a href="https://course.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Courses
-              </a>
-            </li>
-            <li>
-              <a href="http://daigou.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Shop
+              <a href="https://www.linkedin.com/in/heipangma/" target="_blank" rel="noreferrer">
+                Linkedin
               </a>
             </li>
           </ul>
