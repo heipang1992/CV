@@ -23,7 +23,7 @@
       }
     },
     "website": "http://cyberlark.com.au",
-    "resumedownload":"./images/resume.png",
+    "resumedownload":"./images/resume.pdf",
     "social":[
       {
         "name":"github",
@@ -58,7 +58,7 @@
         "company":"MapKing International Limited",
         "title":"Junior Programmer (Intern)",
         "years":"June - Aug 2022",
-        "description":"Updated daily traffic arrangements via GIS application and MySQL, Web Scarping, Managed the console of E-taxi app"
+        "description":"Updated daily traffic arrangements via GIS application and MySQL, Web Scraping, Managed the console of E-taxi app"
       },
       {
         "company":"Hong Kong Lutheran Social Services",
