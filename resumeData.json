@@ -14,12 +14,12 @@
     },
     "youtube":{
       "english": {
-        "name": "David on Cloud",
-        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+        "name": "",
+        "url": ""
       },
       "chinese": {
-        "name": "澳洲程序员大卫",
-        "url":"https://www.youtube.com/@aus-david"
+        "name": "",
+        "url":""
       }
     },
     "website": "http://cyberlark.com.au",
@@ -117,10 +117,10 @@
       },
       {
         "title":"FYP - Group Project",
-        "description": "[ React-Native + 3D Model ]  || Coming Soon",
+        "description": "[ React-Native + 3D Model ]",
         "category": "Video",
         "image":"01-chinese.png",
-        "url":"https://www.youtube.com/watch?v=esYjbyBm8zw"
+        "url":"https://github.com/heipang1992/FYP-Car-App"
       }
     ]
   }
