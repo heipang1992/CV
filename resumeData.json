@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"MA Hei Pang",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "description":"Junior Programmer, Passionate about learning technology",
     "image":"profile.jpg",
-    "bio":"My name is Pang, the graduated of HD software engineering, a junior software developer that has interests in Java Backend development. ",
+    "bio":"My name is Pang, the graduated of HD software engineering. Adaptable, task-focused person with professional training in software engineering. Hands-on experience with Java, Spring, SQL and Web technologies. Self-driven work attitude and able to work independently. Excited in learning new technology to solve problems",
     "contactmessage":"Thank you for your feedback.",
-    "email": "maheipang@gmail.com",
+    "email": "maheipang@alumni.vtc.edu.hk",
     "phone": "(852) 5544 0221",
     "github":"https://github.com/heipang1992",
     "project":"https://github.com/heipang1992",
@@ -22,7 +22,7 @@
         "url":""
       }
     },
-    "website": "http://cyberlark.com.au",
+    "website": "https://heipang1992.github.io/CV/",
     "resumedownload":"./images/resume.pdf",
     "social":[
       {
@@ -44,7 +44,7 @@
         "school":"Hong Kong Institute of Vocational Education (Sha Tin)",
         "degree":"Higher Diploma in Software Engineering with distinction",
         "graduated":"2021 - 2023",
-        "description":"Distinction (GPA: 3.98 / 4.0)"
+        "description":"Distinction (GPA: 3.92 / 4.0)"
       },
       {
         "school":"Hong Kong Metropolitan University",
@@ -76,11 +76,11 @@
     "skills":[
       {
         "name":"Backend Development (JSP, Spring Boot, API, Database)",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Frontend Development (React, JS, HTML, CSS)",
-        "level":"65%"
+        "level":"70%"
       },
       {
         "name":"Leadership & Management",
@@ -101,19 +101,13 @@
         "image":"00.png",
         "url":"https://github.com/heipang1992/bms/"
       },
-      {
-        "title":"Prediction on total export in HK",
-        "description": "LSTM for time-series prediction",
-        "category": "Video",
-        "image":"01.png",
-        "url":"https://github.com/heipang1992/prediction"
-      },
+
       {
         "title":"Java Spring Boot",
-        "description":"Spring Boot + MVC | Coming Soon",
+        "description":"Spring Boot + MVC architecture",
         "category": "Video",
         "image":"03.png",
-        "url":"https://www.youtube.com/watch?v=2WM2AyDA2es"
+        "url":"https://github.com/heipang1992/TacoCloud"
       },
       {
         "title":"FYP - Group Project",
@@ -121,6 +115,20 @@
         "category": "Video",
         "image":"01-chinese.png",
         "url":"https://github.com/heipang1992/FYP-Car-App"
+      },
+      {
+        "title":"Retail Store Management",
+        "description": "C# | Win Form | Entity Framework",
+        "category": "Video",
+        "image":"05.png",
+        "url":"https://github.com/heipang1992/RetailStore"
+      },
+      {
+        "title":"Venue Booking System",
+        "description": "J2EE | JSP Servlet JavaBean JDBC",
+        "category": "Video",
+        "image":"04.png",
+        "url":"https://github.com/heipang1992/VenueBooking"
       }
     ]
   }
