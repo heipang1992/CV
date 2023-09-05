@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"MA Hei Pang",
-    "description":"Passionate about learning technology and sharing knowledge",
+    "description":"Passionate about learning technology to solve problems",
     "image":"profile.jpg",
     "bio":"My name is Pang, the graduated of HD software engineering, a junior software developer that has interests in Java Backend development. Hands-on experience with Java, Spring, J2EE related technologies. Specialized in the development application using J2EE technologies, which includes EJB, JDBC, Servlets, JSP, Spring and Web Services. Self-driven work attitude and able to work independently. Excited in learning new technology to solve problems",
     "contactmessage":"Thank you for your feedback.",
-    "email": "maheipang@gmail.com",
+    "email": "maheipang@alumni.vtc.edu.hk",
     "phone": "(852) 5544 0221",
     "github":"https://github.com/heipang1992",
     "project":"https://github.com/heipang1992",
@@ -14,12 +14,12 @@
     },
     "youtube":{
       "english": {
-        "name": "David on Cloud",
+        "name": "MA Hei Pang",
         "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
       },
       "chinese": {
-        "name": "澳洲程序员大卫",
-        "url":"https://www.youtube.com/@aus-david"
+        "name": "香港",
+        "url":"https://www.youtube.com/"
       }
     },
     "website": "http://cyberlark.com.au",
