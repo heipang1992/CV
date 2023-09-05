@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"MA Hei Pang",
+    "description":"Passionate about learning technology and sharing knowledge",
+    "image":"profile.jpg",
+    "bio":"My name is Pang, the graduated of HD software engineering, a junior software developer that has interests in Java Backend development. Hands-on experience with Java, Spring, J2EE related technologies. Specialized in the development application using J2EE technologies, which includes EJB, JDBC, Servlets, JSP, Spring and Web Services. Self-driven work attitude and able to work independently. Excited in learning new technology to solve problems",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "maheipang@gmail.com",
+    "phone": "(852) 5544 0221",
+    "github":"https://github.com/heipang1992",
+    "project":"https://github.com/heipang1992",
+    "address":{
+      "line1":"District: Kowloon City"
+    },
+    "youtube":{
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/resume.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/heipang1992/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/heipangma/",
+        "className":"fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"Hong Kong Institute of Vocational Education (Sha Tin)",
+        "degree":"Higher Diploma in Software Engineering with distinction",
+        "graduated":"2021 - 2023",
+        "description":"Distinction (GPA: 3.92 / 4.0)"
+      },
+      {
+        "school":"Hong Kong Metropolitan University",
+        "degree":"Bachelor of Social Sciences with Honours in Applied Social Studies",
+        "graduated":"2011-2014",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"MY Consulting Group Limited",
+        "title":"Junior Programmer",
+        "years":"July - Sep 2023",
+        "description":"Utilized JDBC to establish connections and interact with MariaDB hosted on Alibaba Cloud server, Utilized Tomcat as the embedded servlet container, Implemented SSL connections for WebSocket communication between server and ESP32, Used JSP as front-end technology to create user interfaces, Configured Nginx as a reverse proxy and TLS termination point,Utilized Flutter's Google ML Kit to develop OCR (Optical Character Recognition) for scanning and extracting information from driving licenses on both iOS and Android platforms"
+      },
+      {
+        "company":"MapKing International Limited",
+        "title":"Junior Programmer (Intern)",
+        "years":"June - Aug 2022",
+        "description":"Updated daily traffic arrangements via GIS application and MySQL, Web Scraping, Managed the console of E-taxi app"
+      },
+      {
+        "company":"Hong Kong Lutheran Social Services",
+        "title":"Project Officer",
+        "years":"June 2019 - Sep 2021",
+        "description":"Managed the daily operation of health center, Operated health programs for elderly, Assisted in bidding funding"
+      },
+      {
+        "company":"The Boy’s Brigade, Hong Kong",
+        "title":"Project Officer",
+        "years":"Feb 2017 - May 2019",
+        "description":"Managed the daily operation of recycling centre, Promoted 2 municipal solid waste charging schemes, Drove a van"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (JSP, Spring Boot, API, Database)",
+        "level":"80%"
+      },
+      {
+        "name":"Frontend Development (React, JS, HTML, CSS)",
+        "level":"65%"
+      },
+      {
+        "name":"Leadership & Management",
+        "level":"75%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Building Management System (BMS)",
+        "description": "developed by Java",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://github.com/heipang1992/bms/"
+      },
+      {
+        "title":"Prediction on total export in HK",
+        "description": "LSTM for time-series prediction",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://github.com/heipang1992/prediction"
+      },
+      {
+        "title":"Java Spring Boot",
+        "description":"Spring Boot + MVC | Coming Soon",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=2WM2AyDA2es"
+      },
+      {
+        "title":"FYP - Group Project",
+        "description": "[ React-Native + 3D Model ]",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://github.com/heipang1992/FYP-Car-App"
+      }
+    ]
+  }
+}
