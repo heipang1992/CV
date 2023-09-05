@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"MA Hei Pang",
-    "description":"Junior Programmer, Passionate about learning technology",
+    "description":"Passionate about learning technology and sharing knowledge",
     "image":"profile.jpg",
-    "bio":"My name is Pang, the graduated of HD software engineering. Adaptable, task-focused person with professional training in software engineering. Hands-on experience with Java, Spring, SQL and Web technologies. Self-driven work attitude and able to work independently. Excited in learning new technology to solve problems",
+    "bio":"My name is Pang, the graduated of HD software engineering, a junior software developer that has interests in Java Backend development. Hands-on experience with Java, Spring, J2EE related technologies. Specialized in the development application using J2EE technologies, which includes EJB, JDBC, Servlets, JSP, Spring and Web Services. Self-driven work attitude and able to work independently. Excited in learning new technology to solve problems",
     "contactmessage":"Thank you for your feedback.",
-    "email": "maheipang@alumni.vtc.edu.hk",
+    "email": "maheipang@gmail.com",
     "phone": "(852) 5544 0221",
     "github":"https://github.com/heipang1992",
     "project":"https://github.com/heipang1992",
@@ -14,15 +14,15 @@
     },
     "youtube":{
       "english": {
-        "name": "",
-        "url": ""
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
       },
       "chinese": {
-        "name": "",
-        "url":""
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
       }
     },
-    "website": "https://heipang1992.github.io/CV/",
+    "website": "http://cyberlark.com.au",
     "resumedownload":"./images/resume.pdf",
     "social":[
       {
@@ -55,6 +55,12 @@
     ],
     "work":[
       {
+        "company":"MY Consulting Group Limited",
+        "title":"Junior Programmer",
+        "years":"July - Sep 2023",
+        "description":"Utilized JDBC to establish connections and interact with MariaDB hosted on Alibaba Cloud server, Utilized Tomcat as the embedded servlet container, Implemented SSL connections for WebSocket communication between server and ESP32, Used JSP as front-end technology to create user interfaces, Configured Nginx as a reverse proxy and TLS termination point,Utilized Flutter's Google ML Kit to develop OCR (Optical Character Recognition) for scanning and extracting information from driving licenses on both iOS and Android platforms"
+      },
+      {
         "company":"MapKing International Limited",
         "title":"Junior Programmer (Intern)",
         "years":"June - Aug 2022",
@@ -76,11 +82,11 @@
     "skills":[
       {
         "name":"Backend Development (JSP, Spring Boot, API, Database)",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"Frontend Development (React, JS, HTML, CSS)",
-        "level":"70%"
+        "level":"65%"
       },
       {
         "name":"Leadership & Management",
@@ -101,13 +107,19 @@
         "image":"00.png",
         "url":"https://github.com/heipang1992/bms/"
       },
-
+      {
+        "title":"Prediction on total export in HK",
+        "description": "LSTM for time-series prediction",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://github.com/heipang1992/prediction"
+      },
       {
         "title":"Java Spring Boot",
-        "description":"Spring Boot + MVC architecture",
+        "description":"Spring Boot + MVC | Coming Soon",
         "category": "Video",
         "image":"03.png",
-        "url":"https://github.com/heipang1992/TacoCloud"
+        "url":"https://www.youtube.com/watch?v=2WM2AyDA2es"
       },
       {
         "title":"FYP - Group Project",
@@ -115,20 +127,6 @@
         "category": "Video",
         "image":"01-chinese.png",
         "url":"https://github.com/heipang1992/FYP-Car-App"
-      },
-      {
-        "title":"Retail Store Management",
-        "description": "C# | Win Form | Entity Framework",
-        "category": "Video",
-        "image":"05.png",
-        "url":"https://github.com/heipang1992/RetailStore"
-      },
-      {
-        "title":"Venue Booking System",
-        "description": "J2EE | JSP Servlet JavaBean JDBC",
-        "category": "Video",
-        "image":"04.png",
-        "url":"https://github.com/heipang1992/VenueBooking"
       }
     ]
   }
